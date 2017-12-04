@@ -1,7 +1,7 @@
 {
   "name": "thiagorossener.github.io",
   "version": "1.0.0",
-  "description": "Blog pessoal de Thiago Rossener.",
+  "description": "Blog pessoalgit",
   "main": "gulpfile.js",
   "scripts": {
     "test": "test"

@@ -3,7 +3,7 @@ title: Jekflix | A theme for Jekyll
 email: pawel.html@gmail.com
 description: JavaScript blog.
 baseurl: "/blog" # the subpath of your site, e.g. /blog
-url: "https://www.github.com" # the base hostname & protocol for your site
+url: "https://github.com/pawellesniowski" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
 
 # User Settings
